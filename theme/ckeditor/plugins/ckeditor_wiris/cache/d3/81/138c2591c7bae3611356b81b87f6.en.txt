@@ -1,0 +1,1 @@
+{"result":{"text":"H C N O S F equilibrium with 5 rightwards arrow over leftwards arrow with 5 below on top"},"status":"ok"}

@@ -1,0 +1,5 @@
+.custom-switch .custom-control-input:checked~.custom-control-label.feature::after {
+    background-color: #dee2e6;
+     -webkit-transform: translateX(.75rem);
+     transform: translateX(.75rem); 
+}
